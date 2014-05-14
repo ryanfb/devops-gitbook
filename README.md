@@ -1,4 +1,4 @@
-An introduction to "devops" for the uninitiated (me).
+An introduction to "DevOps" for the uninitiated (me).
 
 Prompted by some simple questions:
 * What are all the tools [here](https://github.com/showcases/devops-tools) and how do they relate to one another?
